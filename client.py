@@ -1,6 +1,7 @@
 #packages
 import socket
 from vidstream import *
+import ssl
 import threading
 import tkinter
 
