@@ -1,10 +1,13 @@
-# Audio-Video-Screen Sharing Application - Socket Programming in Python
+# AVS VidStream
 *****************
 
-Key Features:
+Server-Client communication to share Video, Audio and Screen of server among clients
 
-1) **Real-time Audio Transmission**: Vidstream allows users to transmit audio data in real-time, enabling clear and uninterrupted communication during collaborative sessions.
-2) **Video Conferencing**: The application supports video conferencing capabilities, allowing multiple users to engage in face-to-face communication over the network.
-3) **Screen Sharing**: Vidstream enables users to share their screens with others, facilitating collaborative work, presentations, and demonstrations.
-4) **Secure Communication**: Vidstream incorporates encryption techniques to ensure the security and privacy of data transmitted over the network, protecting users from potential threats.
-5) **User-friendly Interface**: The application features an intuitive and user-friendly interface, making it easy for users to navigate and utilize its various functionalities.
+## Steps to execute:
+
+1) Download Server and Client files
+2) If you haven't downloaded python yet, you can do so from the link https://www.python.org/downloads/
+3) run the following commands in a terminal to install the required packages
+  ```
+
+  ```
